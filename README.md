@@ -1,5 +1,5 @@
 # firstTeleBot
-First telegram i built based on online resources, 
+First telegram bot i built based on online resources, 
 
 bot is able to respond to command such as 'start' , 'hi' and 'bop'
 
